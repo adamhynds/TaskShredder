@@ -12,7 +12,8 @@ TaskShredder is a simple, easy-to-use task management system that helps users qu
 
 ## Getting started
 
-To get started with TaskShredder, simply visit our website at taskshredder.com. You can sign up for a free account, create your first task list, and start shredding your to-do list like a pro!
+To get started with TaskShredder, simply visit our website at taskshredder.com. You can sign up for a free account, create your first task list, and start shredding your to-do list like a pro! 
+(Please note: taskshredder.com and it's associated content is currently under development)
 
 ## Contributing
 
