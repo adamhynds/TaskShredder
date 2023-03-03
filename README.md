@@ -4,7 +4,7 @@ TaskShredder is a simple, easy-to-use task management system that helps users qu
 
 ## Features
 
-- Virtual paper shredder: Watch as your completed tasks are "shredded" for a satisfying visual effect.
+- Virtual paper shredder: Watch as your completed tasks are "shredded" for a satisfying audio/visual effect.
 - Recurring tasks: Set tasks to repeat on a daily, weekly, or monthly basis.
 - Subtasks: Break your tasks down into smaller subtasks for easier management.
 - Reminders and due dates: Set reminders and due dates to stay on top of your tasks.
