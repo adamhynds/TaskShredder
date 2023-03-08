@@ -22,3 +22,6 @@ If you're interested in contributing to TaskShredder, please visit our GitHub pa
 ## About the author
 
 TaskShredder was created by Adam Hynds, a first-year software engineering student with a passion for productivity and organization. If you have any questions or feedback about TaskShredder, please feel free to contact me at adamhynds@gmail.com.
+
+
+<a href="https://www.flaticon.com/free-icons/paper-shredder" title="paper shredder icons">Paper shredder icons created by Creatype - Flaticon</a>
