@@ -1,3 +1,7 @@
+<img src="/Users/adam/Downloads/shred.png"
+     alt="Shredder icon"
+     />
+     
 # TaskShredder
 
 TaskShredder is a simple, easy-to-use task management system that helps users quickly and efficiently complete their tasks. With TaskShredder, you can break your tasks down into smaller, more manageable subtasks, set reminders and due dates, and track your progress as you work through your to-do list.
